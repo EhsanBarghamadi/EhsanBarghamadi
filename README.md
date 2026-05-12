@@ -7,8 +7,8 @@ I am a dedicated software development student currently focused on mastering **B
 ![My Skills Animation](skills.svg)
 
 ### 🌱 I’m currently learning ...
-- [*] **Phase 1:** Mastering **Django** for robust backend services.
-- [ ] **Phase 2:** Learning **JavaScript** and **React** for modern frontend interfaces.
+- [x] **Phase 1:** Mastering **Django** for robust backend services.
+- [x] **Phase 2:** Learning **JavaScript** and **React** for modern frontend interfaces.
 - [ ] **Phase 3:** Building my first comprehensive **Full-stack** project.
 
 ### 🛠 Tools & Technologies
