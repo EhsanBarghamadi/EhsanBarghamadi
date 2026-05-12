@@ -1,0 +1,111 @@
+<svg width="600" height="700" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; }
+    .skill-text { font-family: Arial, sans-serif; font-size: 11px; }
+    .percent { font-family: Arial, sans-serif; font-size: 10px; fill: #a0aec0; }
+    .section-title { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; }
+  </style>
+
+  <!-- Back End Section -->
+  <text x="20" y="30" class="title">⚙️ Back End</text>
+  
+  <text x="20" y="50" class="skill-text">Python</text>
+  <text x="520" y="50" class="percent">70%</text>
+  <rect x="20" y="55" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="55" width="336" height="12" rx="6" fill="#3776AB">
+    <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
+  </rect>
+  
+  <!-- Django - رنگ روشن‌تر -->
+  <text x="20" y="85" class="skill-text">Django</text>
+  <text x="520" y="85" class="percent">50%</text>
+  <rect x="20" y="90" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="90" width="240" height="12" rx="6" fill="#68A063">
+    <animate attributeName="width" from="0" to="240" dur="1s" fill="freeze"/>
+  </rect>
+
+  <!-- Front End Section -->
+  <text x="20" y="140" class="title">🎨 Front End</text>
+  
+  <text x="20" y="160" class="skill-text">HTML / CSS</text>
+  <text x="520" y="160" class="percent">70%</text>
+  <rect x="20" y="165" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="165" width="336" height="12" rx="6" fill="#E34F26">
+    <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
+  </rect>
+  
+  <text x="20" y="195" class="skill-text">JavaScript</text>
+  <text x="520" y="195" class="percent">70%</text>
+  <rect x="20" y="200" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="200" width="336" height="12" rx="6" fill="#F7DF1E">
+    <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
+  </rect>
+  
+  <text x="20" y="235" class="skill-text">Bootstrap</text>
+  <text x="520" y="235" class="percent">80%</text>
+  <rect x="20" y="240" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="240" width="384" height="12" rx="6" fill="#7952B3">
+    <animate attributeName="width" from="0" to="384" dur="1s" fill="freeze"/>
+  </rect>
+
+  <!-- Data Base Section -->
+  <text x="20" y="290" class="title">💾 Data Base</text>
+  
+  <text x="20" y="310" class="skill-text">SQL</text>
+  <text x="520" y="310" class="percent">60%</text>
+  <rect x="20" y="315" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="315" width="288" height="12" rx="6" fill="#4479A1">
+    <animate attributeName="width" from="0" to="288" dur="1s" fill="freeze"/>
+  </rect>
+  
+  <text x="20" y="345" class="skill-text">PostgreSQL</text>
+  <text x="520" y="345" class="percent">75%</text>
+  <rect x="20" y="350" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="350" width="360" height="12" rx="6" fill="#336791">
+    <animate attributeName="width" from="0" to="360" dur="1s" fill="freeze"/>
+  </rect>
+  
+  <text x="20" y="385" class="skill-text">SQL Server</text>
+  <text x="520" y="385" class="percent">70%</text>
+  <rect x="20" y="390" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="390" width="336" height="12" rx="6" fill="#CC2927">
+    <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
+  </rect>
+
+  <!-- Tools Section -->
+  <text x="20" y="440" class="title">🛠️ Tools</text>
+  
+  <text x="20" y="460" class="skill-text">Git</text>
+  <text x="520" y="460" class="percent">70%</text>
+  <rect x="20" y="465" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="465" width="336" height="12" rx="6" fill="#F05032">
+    <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
+  </rect>
+  
+  <!-- GitHub - رنگ روشن‌تر -->
+  <text x="20" y="495" class="skill-text">GitHub</text>
+  <text x="520" y="495" class="percent">70%</text>
+  <rect x="20" y="500" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="500" width="336" height="12" rx="6" fill="#6E5494">
+    <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
+  </rect>
+  
+  <text x="20" y="535" class="skill-text">Linux</text>
+  <text x="520" y="535" class="percent">40%</text>
+  <rect x="20" y="540" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="540" width="192" height="12" rx="6" fill="#FCC624">
+    <animate attributeName="width" from="0" to="192" dur="1s" fill="freeze"/>
+  </rect>
+  
+  <text x="20" y="575" class="skill-text">Docker</text>
+  <text x="520" y="575" class="percent">55%</text>
+  <rect x="20" y="580" width="480" height="12" rx="6" fill="#2d3748"/>
+  <rect x="20" y="580" width="264" height="12" rx="6" fill="#2496ED">
+    <animate attributeName="width" from="0" to="264" dur="1s" fill="freeze"/>
+  </rect>
+
+  <!-- Future Section -->
+  <rect x="20" y="620" width="550" height="50" rx="10" fill="#2d3748"/>
+  <text x="40" y="648" class="section-title">🚀 In Progress</text>
+  <text x="250" y="648" class="skill-text">React 🔜 Coming Soon...</text>
+</svg>
