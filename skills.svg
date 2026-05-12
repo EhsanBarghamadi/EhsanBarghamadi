@@ -1,14 +1,13 @@
 <svg width="600" height="700" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; }
-    .skill-text { font-family: Arial, sans-serif; font-size: 11px; }
-    .percent { font-family: Arial, sans-serif; font-size: 10px; fill: #a0aec0; }
-    .section-title { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; }
+    .title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #ffffff; }
+    .skill-text { font-family: Arial, sans-serif; font-size: 11px; fill: #ffffff; }
+    .percent { font-family: Arial, sans-serif; font-size: 10px; fill: #ffffff; }
+    .section-title { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #ffffff; }
   </style>
-
+  
   <!-- Back End Section -->
   <text x="20" y="30" class="title">⚙️ Back End</text>
-  
   <text x="20" y="50" class="skill-text">Python</text>
   <text x="520" y="50" class="percent">70%</text>
   <rect x="20" y="55" width="480" height="12" rx="6" fill="#2d3748"/>
@@ -16,17 +15,16 @@
     <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
   </rect>
   
-  <!-- Django - رنگ روشن‌تر -->
+  <!-- Django -->
   <text x="20" y="85" class="skill-text">Django</text>
   <text x="520" y="85" class="percent">50%</text>
   <rect x="20" y="90" width="480" height="12" rx="6" fill="#2d3748"/>
   <rect x="20" y="90" width="240" height="12" rx="6" fill="#68A063">
     <animate attributeName="width" from="0" to="240" dur="1s" fill="freeze"/>
   </rect>
-
+  
   <!-- Front End Section -->
   <text x="20" y="140" class="title">🎨 Front End</text>
-  
   <text x="20" y="160" class="skill-text">HTML / CSS</text>
   <text x="520" y="160" class="percent">70%</text>
   <rect x="20" y="165" width="480" height="12" rx="6" fill="#2d3748"/>
@@ -47,10 +45,9 @@
   <rect x="20" y="240" width="384" height="12" rx="6" fill="#7952B3">
     <animate attributeName="width" from="0" to="384" dur="1s" fill="freeze"/>
   </rect>
-
+  
   <!-- Data Base Section -->
   <text x="20" y="290" class="title">💾 Data Base</text>
-  
   <text x="20" y="310" class="skill-text">SQL</text>
   <text x="520" y="310" class="percent">60%</text>
   <rect x="20" y="315" width="480" height="12" rx="6" fill="#2d3748"/>
@@ -71,10 +68,9 @@
   <rect x="20" y="390" width="336" height="12" rx="6" fill="#CC2927">
     <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
   </rect>
-
+  
   <!-- Tools Section -->
   <text x="20" y="440" class="title">🛠️ Tools</text>
-  
   <text x="20" y="460" class="skill-text">Git</text>
   <text x="520" y="460" class="percent">70%</text>
   <rect x="20" y="465" width="480" height="12" rx="6" fill="#2d3748"/>
@@ -82,7 +78,7 @@
     <animate attributeName="width" from="0" to="336" dur="1s" fill="freeze"/>
   </rect>
   
-  <!-- GitHub - رنگ روشن‌تر -->
+  <!-- GitHub -->
   <text x="20" y="495" class="skill-text">GitHub</text>
   <text x="520" y="495" class="percent">70%</text>
   <rect x="20" y="500" width="480" height="12" rx="6" fill="#2d3748"/>
@@ -103,7 +99,7 @@
   <rect x="20" y="580" width="264" height="12" rx="6" fill="#2496ED">
     <animate attributeName="width" from="0" to="264" dur="1s" fill="freeze"/>
   </rect>
-
+  
   <!-- Future Section -->
   <rect x="20" y="620" width="550" height="50" rx="10" fill="#2d3748"/>
   <text x="40" y="648" class="section-title">🚀 In Progress</text>
