@@ -47,7 +47,7 @@
   </rect>
   
   <!-- Data Base Section -->
-  <text x="20" y="290" class="title">💾 Data Base</text>
+  <text x="20" y="290" class="title">💾 DataBase</text>
   <text x="20" y="310" class="skill-text">SQL</text>
   <text x="520" y="310" class="percent">60%</text>
   <rect x="20" y="315" width="480" height="12" rx="6" fill="#2d3748"/>
