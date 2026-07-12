@@ -34,11 +34,11 @@ Currently, I am expanding my skills to bridge the gap between backend and fronte
 
 ### 🗺️ My Roadmap & Vision
 
-- [x] **Phase 1: Advanced Backend Mastery**  
+* ✅ **Phase 1: Advanced Backend Mastery**  
   Deep dive into Django REST Framework, test-driven development (pytest), EAV database design, and containerization with Docker.
-- [ ] **Phase 2: Transitioning to Full-Stack (Current)**  
+* 🔄 **Phase 2: Transitioning to Full-Stack (Current)**  
   Mastering modern frontend architecture using **React** to build seamless, interactive user interfaces.
-- [ ] **Phase 3: AI Integration & Intelligence**  
+* ⏳ **Phase 3: AI Integration & Intelligence**  
   Exploring Machine Learning models, Neural Networks, and integrating AI-driven features into Full-Stack applications.
 
 ---
