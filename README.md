@@ -55,7 +55,6 @@ Currently, I am expanding my skills to bridge the gap between backend and fronte
   Exploring Machine Learning models, Neural Networks, and integrating AI-driven features into Full-Stack applications.
 
 ---
-<a name="fa"></a>
 ### ⚡ Connect with Me
 
 <div align="center">
@@ -79,8 +78,13 @@ Currently, I am expanding my skills to bridge the gap between backend and fronte
 </div>
 
 ---
+<a name="fa"></a>
+<p align="center">
+  <img src="assets/ending.gif" alt="Thanks for reading my README!" width="800">
+</p>
 
-*"Every commit is a step toward mastery."*
+*«Code, learn, make mistakes, build again, and be happy. 😉»*
+
 
 ---
 
@@ -170,7 +174,7 @@ Currently, I am expanding my skills to bridge the gap between backend and fronte
 
 ---
 
-*«هر کامیت، قدمی به سوی تسلط است.»*
+*«کد بزن، یاد بگیر، اشتباه کن، دوباره بساز و شاد باش. 😉»*
 
 
 
