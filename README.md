@@ -57,30 +57,28 @@ Currently, I am expanding my skills to bridge the gap between backend and fronte
 ---
 ### ⚡ Connect with Me
 
-<div align="center">
-
-<a href="https://mail.google.com/mail/?view=cm&to=ehsan0barghamadi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ehsanbarghamadi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://t.me/ehsan0barghamadi">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ehsanbarghamadi.github.io/MyPortfolio">
-  <img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=ehsan0barghamadi@gmail.com">
+    <img src="./assets/icons/email-icon.png" alt="Email" width="120" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ehsanbarghamadi/">
+    <img src="./assets/icons/linkedIn-icon.png" alt="LinkedIn" width="120" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/ehsan0barghamadi">
+    <img src="./assets/icons/telegram-icon.png" alt="Telegram" width="120"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ehsanbarghamadi.github.io/">
+    <img src="./assets/icons/portfolio-icon.png" alt="Portfolio" width="120"  />
+  </a>
+</p>
 
 ---
 <a name="fa"></a>
 <p align="center">
-  <img src="assets/ending.gif" alt="Thanks for reading my README!" width="800">
+  <img src="assets/ending.gif" alt="Thanks for reading my README!" width="800" >
 </p>
 
 *«Code, learn, make mistakes, build again, and be happy. 😉»*
@@ -150,27 +148,24 @@ Currently, I am expanding my skills to bridge the gap between backend and fronte
 
 ### ⚡ راه‌های ارتباطی
 
-<div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&to=ehsan0barghamadi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ehsanbarghamadi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://t.me/ehsan0barghamadi">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ehsanbarghamadi.github.io/MyPortfolio">
-  <img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
-</div>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=ehsan0barghamadi@gmail.com">
+    <img src="./assets/icons/email-icon.png" alt="Email" width="120" style="border-radius: 35px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ehsanbarghamadi/">
+    <img src="./assets/icons/linkedIn-icon.png" alt="LinkedIn" width="120" style="border-radius: 35px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/ehsan0barghamadi">
+    <img src="./assets/icons/telegram-icon.png" alt="Telegram" width="120" style="border-radius: 35px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ehsanbarghamadi.github.io/fa">
+    <img src="./assets/icons/portfolio-icon.png" alt="Portfolio" width="120" style="border-radius: 35px;" />
+  </a>
+</p>
 
 ---
 
